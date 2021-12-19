@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sanjeev Arora
-#### I Want To Be Full Stack Web Developer
+#### I Want To Be Full Stack Developer
 ![I Want To Be Full Stack Developer](https://i.ibb.co/DQLwT0m/Banner.png)
 
 I am a B.Tech student from CSE (IOT) department and I made projects just for fun, it helps me to learn new skills & technologies.  
