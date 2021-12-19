@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sanjeev Arora
 #### I Want To Be Full Stack Developer
-
+<body background="#AE8ACC">
 <p align="center">
   <img src="https://camo.githubusercontent.com/7a1cef091de305730c8be2627ba2960afe5c9b24ff13529699369030cb1c341b/68747470733a2f2f692e6962622e636f2f44514c7754306d2f42616e6e65722e706e67">
 </p>
